@@ -3,6 +3,8 @@ Created an interactive and dynamic dashboard which provides actionable insights 
 
 Before performing analysis, I checked for duplicates and in case of null values, utilised forward/backward fill.
 
+Skills: Microsoft Excel · Microsoft PowerPoint · Canva · Microsoft Power Query · Data Cleaning · Data Transformation · Data Modeling · Data Visualization
+
 [Click here to view the entire presentation](https://github.com/KanishkaMaheshwari02/McDonald-s_Sales_Dashboard/blob/main/Kanishka%20Maheshwari's%20McDonald's%20Project.pdf)
 
 
